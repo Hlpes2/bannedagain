@@ -3,7 +3,7 @@ local settings = {
         DotEnabled = true, -- leave this true thusky pooh ;)
         Prediction = 0.11621,
         Part = "LowerTorso",
-        Key = "8",
+        Key = "q",
         Notifications = true,
         AirshotFunc = false
     },
